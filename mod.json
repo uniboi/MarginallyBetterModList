@@ -1,0 +1,15 @@
+{
+	"Name": "Odd.MarginallyBetterModList",
+	"Description": "Small improvements to the mod list",
+	"LoadPriority": 1,
+	"RequiredOnClient": false,
+	"Version": "1.0",
+	"DownloadLink": "github.com/uniboi/MarginallyBetterModList",
+	"ConVars": [
+		{
+			"Name": "modlist_hide_cv",
+			"DefaultValue": "0",
+			"Flags": 16777216
+		}
+	]
+}
